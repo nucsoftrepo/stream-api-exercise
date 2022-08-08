@@ -32,3 +32,6 @@ The example data model consists of Customer, Order and Product. Customers can pl
 ## Exercises
 
 You have to write your code in the `Exercise`class.
+
+### URL To Check Database
+http://localhost:8080/h2-console
