@@ -1,5 +1,7 @@
 # Resource Links To Learn
 
+https://blog.devgenius.io/15-practical-exercises-help-you-master-java-stream-api-3f9c86b1cf82
+
 ## Java 8 New Features
 https://www.digitalocean.com/community/tutorials/java-8-features-with-examples
 
